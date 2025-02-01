@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daniella/static/css/main.49aa2b63.css",
+    "main.js": "/daniella/static/js/main.a95400a8.js",
+    "index.html": "/daniella/index.html",
+    "main.49aa2b63.css.map": "/daniella/static/css/main.49aa2b63.css.map",
+    "main.a95400a8.js.map": "/daniella/static/js/main.a95400a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49aa2b63.css",
+    "static/js/main.a95400a8.js"
+  ]
+}
